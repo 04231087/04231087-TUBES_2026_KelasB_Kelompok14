@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.set_page_config(page_title="EEG Eye-State Monitoring", page_icon="🧠", layout="wide")
+st.set_page_config(page_title="EEG Eye-State Monitoring", layout="wide")
 
-st.title("🧠 EEG Eye-State Intelligent Monitoring")
+st.title("EEG Eye-State Intelligent Monitoring")
 st.caption("Kelompok 14 · Dashboard Mata Kuliah Kecerdasan Komputasional")
 
 st.markdown(
